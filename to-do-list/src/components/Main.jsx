@@ -1,7 +1,8 @@
+import TodoApp from "./todoApp";
 const Main = () => {
     return (
         <main className="main">
-            Soy el MAIN
+            <TodoApp/>
         </main>
     );
 
