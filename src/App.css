@@ -3,10 +3,11 @@ body{
     position: relative;
     min-height: 100vh;
     overflow: hidden;
+    background-color: lightsalmon;
   }
   .header{
     font-size: 35px;
-    background-color: aquamarine;
+    background-color: khaki;
     text-align: center;
   }
   .main{
@@ -17,9 +18,9 @@ body{
   .footer{
    position: absolute;
    /* margin-bottom: 0; */
-   background-color: aquamarine;
    text-align: center;
    font-size: 35px;
    bottom: 0;
-   width: 100%;
+   background-color: khaki;
+   width: 100vw;
   }
